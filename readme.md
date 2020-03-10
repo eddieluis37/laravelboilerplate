@@ -47,3 +47,4 @@ MIT: [http://anthony.mit-license.org](http://anthony.mit-license.org)
 # 3laravelboilerplate
 # 3laravelboilerplate
 # laravelboilerplate
+# laravelboilerplate
